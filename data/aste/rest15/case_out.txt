@@ -1,0 +1,4 @@
+food, mediocre, neutral	food, mediocre, negative
+place, convenient, positive; service, lousy, negative	place, nice, positive; place, convenient, positive; service, lousy, negative
+pizzas, terrific, positive; price, better, positive	pizzas, terrific, positive; price, better, negative
+falafal, over cooked, negative; chicken, fine, positive	falafal, over cooked, negative; falafal, dried, negative; chicken, fine, positive

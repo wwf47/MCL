@@ -1,0 +1,4 @@
+The food here was mediocre at best .####[([1], [4], 'NEG')]
+It ’s a shame that a nice , convenient place like the Pink Pony can be so ruined by lousy service .####[([9], [6], 'POS'), ([9], [8], 'POS'), ([20], [19], 'NEG')]
+All of the pizzas are terrific and the price is even better !####[([3], [5], 'POS'), ([8], [11], 'POS')]
+The falafal was rather over cooked and dried but the chicken was fine .####[([1], [4, 5], 'NEG'), ([1], [7], 'NEG'), ([10], [12], 'POS')]
