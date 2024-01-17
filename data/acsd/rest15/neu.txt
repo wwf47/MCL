@@ -1,0 +1,53 @@
+Food was okay , nothing great .####Food####food quality
+the food is decent .####food####food quality
+However , go for the ambience , and consider the food just a companion for a trip across the world !####food####food quality
+Decent wine at reasonable prices .####wine####drinks quality
+those rolls were big , but not good and sashimi wasn 't fresh .####rolls####food style_options
+It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area .####NULL####ambience general
+Service is not exactly five star , but thats not really a big deal .####Service####service general
+Rude service , medicore food . . .there are tons of restaurants in NY . . .stay away from this one####food####food quality
+Inside is a little cramped , but to be expected .####NULL####ambience general
+Prices are in line .####NULL####restaurant prices
+To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .####Service####service general
+As many other reviewers noticed , your order is often slow to arrive - this is particularly true in the evening but is not a problem during lunch time .####NULL####service general
+The restaurant is cute but not upscale .####restaurant####restaurant general
+The scallion pancakes and fried dumplings were nothing out of the ordinary .####scallion pancakes####food quality
+The scallion pancakes and fried dumplings were nothing out of the ordinary .####fried dumplings####food quality
+sometimes i get good food and ok service .####service####service general
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .####place####restaurant miscellaneous
+The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .####menu####food style_options
+Please be aware that it 's CASH or AMEX only !####NULL####restaurant miscellaneous
+With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .####food####food quality
+The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .####decor####ambience general
+Food was good not great not worth the wait or another visit####Food####food quality
+Everything we had was good or ok . . . .but definitely nothing great .####NULL####food quality
+The location and ambience is Ok but the food is what makes up for it .####location####location general
+The location and ambience is Ok but the food is what makes up for it .####ambience####ambience general
+The service is ok , some of the people didn 't get what they asked for .####service####service general
+Moderate prices .####NULL####restaurant prices
+A little noise but I think that was because of our party !####NULL####ambience general
+Amma is nothing special .####Amma####restaurant general
+This place is always packed .####place####ambience general
+Of course , it is crowded but who cares .####NULL####ambience general
+Service is average .####Service####service general
+I wasn 't thrilled to have to wait on line for thirty minutes , but I guess that 's the price you pay for a popular place .####NULL####service general
+My friends settled for rice dishes , but we came back the following day to try the dim sum , which was good . . .not outstanding , but good .####dim sum####food quality
+My son and his girlfriend both wanted cheeseburgers and they were huge !####cheeseburgers####food style_options
+I had a huge pastrami sandwich on a roll .####pastrami sandwich on a roll####food style_options
+It was $14 not really bad for a pound of Pastrami-but it didn 't have much taste-I 've had better for less elsewhere !####NULL####food prices
+I 'm sure I 'll return for a final judgement tho .####NULL####restaurant general
+So close , but not good enough .####NULL####restaurant general
+Bagels are ok , but be sure not to make any special requests !####Bagels####food quality
+The food is reliable and the price is moderate .####NULL####restaurant prices
+The service was friendly and the atmosphere was casual .####atmosphere####ambience general
+Rao is a good restaurant , but it 's nothing special .####Rao####restaurant general
+Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . .try the potato stuff kanish best one .####Appetizers####food quality
+Still , any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house . . .####NULL####restaurant prices
+Food was very good , but not what I would consider out of this world .####Food####food quality
+However , if you want great food at a great price and don 't mind the decor , you can 't beat this place .####decor####ambience general
+Food was just average . . .if they lowered the prices just a bit , it would be a bigger draw .####Food####food quality
+If only they delivered , they 'd make a mint !####NULL####restaurant miscellaneous
+The portions are HUGE , so it might be good to order three things to split (rather than one appetizer and entree per person ) for two people .####portions####food style_options
+The food is okay and the prices here are mediocre .####food####food quality
+The food is okay and the prices here are mediocre .####NULL####restaurant prices
+I have never before eaten 40 pieces of relatively good nigiri .####nigiri####food quality
